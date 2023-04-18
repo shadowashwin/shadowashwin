@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ayush-p28.github.io/my-portfolio/)
 <h1 align="center" style="color: rgb(128, 17, 232);">Hi, I am Ashwin Satish</h1>
 <h3 align="center">I am a passionate Android, AI/ML developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
