@@ -1,7 +1,7 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5HnrFtKRu3WZd-537_qvTm6KFPK4hyLiFGClzsurnSPqK0v2_VZh31fuh3wt4ERMp-7U-Um5pvJJfC_M4lfLfm-p5Qrmw9qfDdOKR_Tst4G6yY2bQZnF_Y8jK7wsi2MghH80tICwYTz-BvSKofJgKwSy4OMX9_uAUliKHQpVOxMEh7QgqmCcz8f-/s320/back.gif)](https://ayush-p28.github.io/my-portfolio/)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5HnrFtKRu3WZd-537_qvTm6KFPK4hyLiFGClzsurnSPqK0v2_VZh31fuh3wt4ERMp-7U-Um5pvJJfC_M4lfLfm-p5Qrmw9qfDdOKR_Tst4G6yY2bQZnF_Y8jK7wsi2MghH80tICwYTz-BvSKofJgKwSy4OMX9_uAUliKHQpVOxMEh7QgqmCcz8f-/s320/back.gif)]
 <h1 align="center" style="color: rgb(128, 17, 232);">Hi, I am Ashwin Satish</h1>
 <h3 align="center">I am a passionate Android, AI/ML developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5HnrFtKRu3WZd-537_qvTm6KFPK4hyLiFGClzsurnSPqK0v2_VZh31fuh3wt4ERMp-7U-Um5pvJJfC_M4lfLfm-p5Qrmw9qfDdOKR_Tst4G6yY2bQZnF_Y8jK7wsi2MghH80tICwYTz-BvSKofJgKwSy4OMX9_uAUliKHQpVOxMEh7QgqmCcz8f-/s320/back.gif)">
 
 # 💫 About Me:
 🌱 I am currently learning Machine Learning & Algorithms<br>👨‍💻 All of my projects are available at https://github.com/shadowashwin?tab=repositories<br>💬 Ask me about Android  Development, Web Application .....<br>💞️ I’m looking to collaborate on some projects on Android ,Web Development & AI/ML<br>📫 How to reach me @ashwinsatish0473@gmail.com
